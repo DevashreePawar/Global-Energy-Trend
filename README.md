@@ -79,7 +79,7 @@ This repository presents our final project for INFO 523: Data Mining at the Univ
 ## ⚙️ Installation
 
 1. Clone the repository  
-   ```bash git clone https://github.com/<your-username>/global-energy-trends.git cd global-energy-trends
+   ```bash git clone https://github.com/<your-username>/global-energy-trends.git cd global-energy-trends'''
 
 2. Create a virtual environment and activate it
 
